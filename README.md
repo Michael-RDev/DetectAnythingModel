@@ -27,3 +27,8 @@ TQDM
 4) Update the **randomPath** variable in the code to point to the directory containing the images.
 
 5) Open up **vitmodel.ipynb** and run the Jupyter notebook
+
+> The code will output a randomly selected image from the directory and the predicted class label.
+
+This code is based on the <a href='https://huggingface.co/google/vit-base-patch16-224'>Google VIT Model</a>.
+
