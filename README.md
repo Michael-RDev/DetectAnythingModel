@@ -4,6 +4,7 @@ This is a Python code snippet that demonstrates how to use the Vision Transforme
 
 ## Prerequisites
 ```
+Jupyter notebook
 Python 3.x
 PyTorch
 Transformers
@@ -15,5 +16,14 @@ TQDM
 
 ### Usage
 
-Clone the repository:
-```git clone https://github.com/<username>/<repo>.git```
+1) Clone the repository:
+
+```https://github.com/Michael-Rusu/DetectAnythingModel.git```
+
+2) Navigate to the directory
+
+3) Collect some images to test the model on and store them in a directory.
+
+4) Update the **randomPath** variable in the code to point to the directory containing the images.
+
+5) Open up **vitmodel.ipynb** and run the Jupyter notebook
